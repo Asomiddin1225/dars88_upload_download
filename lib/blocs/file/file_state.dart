@@ -30,13 +30,3 @@ final class FileState {
     );
   }
 }
-
-
-
-// final class LoadingState {}
-
-// final class LoadedState {}
-
-// final class ErrorState {}
-
-// final class InitialState {}
